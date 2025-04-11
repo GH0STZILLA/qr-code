@@ -1,0 +1,43 @@
+.qr-box
+{
+   padding: 16px;
+   width: 320px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+.qr-photo
+{
+    width: 100%;
+}
+
+.qr-box h1
+{
+    text-align: center;
+    font-family: "Outfit";
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 120%;
+    max-width: 256px;
+    margin: 24px auto 16px;
+    color: #1F314F;
+}
+
+.qr-box p
+{
+    text-align: center;
+    font-family: "Outfit";
+    letter-spacing: 0.2px;
+    line-height: 140%;
+    font-size: 15px;
+    max-width: 256px;
+    margin: 0 auto 40px;
+    color: #68778D;
+
+}
+
